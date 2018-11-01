@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ExceptionsApp\ExceptionsApp\bin\Debug\ExceptionsApp.exe.config
+C:\Users\User\source\repos\ExceptionsApp\ExceptionsApp\bin\Debug\ExceptionsApp.exe
+C:\Users\User\source\repos\ExceptionsApp\ExceptionsApp\bin\Debug\ExceptionsApp.pdb
+C:\Users\User\source\repos\ExceptionsApp\ExceptionsApp\obj\Debug\ExceptionsApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExceptionsApp\ExceptionsApp\obj\Debug\ExceptionsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExceptionsApp\ExceptionsApp\obj\Debug\ExceptionsApp.exe
+C:\Users\User\source\repos\ExceptionsApp\ExceptionsApp\obj\Debug\ExceptionsApp.pdb
